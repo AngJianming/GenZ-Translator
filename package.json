@@ -1,0 +1,9 @@
+"scripts": {
+    "start": "live-server"
+}
+
+"scripts": {
+    "start": "live-server",
+    "build": "tsc",
+    "watch": "tsc --watch"
+}
